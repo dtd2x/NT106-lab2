@@ -1,0 +1,11 @@
+## Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+## File sinh ra khi chạy chương trình
+Data/output*.txt
+Data/input4.txt
+Data/*.db
